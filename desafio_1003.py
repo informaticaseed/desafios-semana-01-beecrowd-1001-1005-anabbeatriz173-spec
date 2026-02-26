@@ -15,3 +15,29 @@ de A e B.
 # Link do problema: https://judge.beecrowd.com/pt/problems/view/1003
 
 # Escreva sua solução abaixo
+
+# Leitura dos valores
+A = int(input())
+B = int(input())
+
+# Cálculo
+SOMA = A + B
+
+# Exibição do resultado com o espaço solicitado
+print(f"SOMA = {SOMA}")# Leitura dos valores
+A = int(input())
+B = int(input())
+
+# Cálculo
+SOMA = A + B
+
+# Exibição do resultado com o espaço solicitado
+print(f"SOMA = {SOMA}")# Leitura dos valores
+A = int(input())
+B = int(input())
+
+# Cálculo
+SOMA = A + B
+
+# Exibição do resultado com o espaço solicitado
+print(f"SOMA = {SOMA}")
